@@ -1,0 +1,420 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$INSUNITS
+  70
+9
+  9
+$EXTMIN
+  10
+-456
+  20
+0
+  9
+$EXTMAX
+  10
+543.6
+  20
+210.2
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+  70
+1
+  0
+LTYPE
+  2
+CONTINUOUS
+  70
+64
+  3
+Solid line
+  72
+65
+  73
+0
+  40
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  70
+2
+  0
+LAYER
+  2
+Default
+  70
+0
+  62
+1
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+NA
+  70
+0
+  62
+136
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  2
+EM_Structure
+  3
+EM_Structure
+  10
+0
+  20
+0
+  70
+0
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+113.1
+  20
+94.2
+  0
+VERTEX
+  8
+NA
+  10
+251.5
+  20
+94.2
+  0
+VERTEX
+  8
+NA
+  10
+251.5
+  20
+116.2
+  0
+VERTEX
+  8
+NA
+  10
+113.1
+  20
+116.2
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+-456
+  20
+80.4
+  0
+VERTEX
+  8
+NA
+  10
+-302.4
+  20
+80.4
+  0
+VERTEX
+  8
+NA
+  10
+-302.4
+  20
+130
+  0
+VERTEX
+  8
+NA
+  10
+-456
+  20
+130
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+251.5
+  20
+25.2
+  0
+VERTEX
+  8
+NA
+  10
+390
+  20
+25.2
+  0
+VERTEX
+  8
+NA
+  10
+390
+  20
+185.2
+  0
+VERTEX
+  8
+NA
+  10
+251.5
+  20
+185.2
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+-302.4
+  20
+25.2
+  0
+VERTEX
+  8
+NA
+  10
+-163.9
+  20
+25.2
+  0
+VERTEX
+  8
+NA
+  10
+-163.9
+  20
+185.2
+  0
+VERTEX
+  8
+NA
+  10
+-302.4
+  20
+185.2
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+-25.4
+  20
+0.2
+  0
+VERTEX
+  8
+NA
+  10
+113.1
+  20
+0.2
+  0
+VERTEX
+  8
+NA
+  10
+113.1
+  20
+210.2
+  0
+VERTEX
+  8
+NA
+  10
+-25.4
+  20
+210.2
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+-163.9
+  20
+94.2
+  0
+VERTEX
+  8
+NA
+  10
+-25.4
+  20
+94.2
+  0
+VERTEX
+  8
+NA
+  10
+-25.4
+  20
+116.2
+  0
+VERTEX
+  8
+NA
+  10
+-163.9
+  20
+116.2
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+390
+  20
+80.4
+  0
+VERTEX
+  8
+NA
+  10
+543.6
+  20
+80.4
+  0
+VERTEX
+  8
+NA
+  10
+543.6
+  20
+130
+  0
+VERTEX
+  8
+NA
+  10
+390
+  20
+130
+  0
+SEQEND
+  0
+ENDBLK
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+INSERT
+  8
+Default
+  2
+EM_Structure
+  10
+0
+  20
+0
+  50
+0
+  41
+1
+  42
+1
+  0
+ENDSEC
+  0
+EOF
