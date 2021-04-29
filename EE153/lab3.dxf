@@ -1,0 +1,1062 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$INSUNITS
+  70
+9
+  9
+$EXTMIN
+  10
+-333.7
+  20
+-520.5
+  9
+$EXTMAX
+  10
+666.3
+  20
+273.5
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LTYPE
+  70
+1
+  0
+LTYPE
+  2
+CONTINUOUS
+  70
+64
+  3
+Solid line
+  72
+65
+  73
+0
+  40
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  70
+2
+  0
+LAYER
+  2
+Default
+  70
+0
+  62
+1
+  6
+CONTINUOUS
+  0
+LAYER
+  2
+NA
+  70
+0
+  62
+136
+  6
+CONTINUOUS
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  2
+lab_p2_11
+  3
+lab_p2_11
+  10
+0
+  20
+0
+  70
+0
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+-10
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+-10
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+56.4
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+56.4
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+29
+  20
+-10
+  0
+VERTEX
+  8
+NA
+  10
+29
+  20
+-237
+  0
+VERTEX
+  8
+NA
+  10
+46.9
+  20
+-237
+  0
+VERTEX
+  8
+NA
+  10
+46.9
+  20
+-10
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+285.6
+  20
+-10
+  0
+VERTEX
+  8
+NA
+  10
+285.6
+  20
+-237
+  0
+VERTEX
+  8
+NA
+  10
+303.5
+  20
+-237
+  0
+VERTEX
+  8
+NA
+  10
+303.5
+  20
+-10
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+-237
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+-237
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+-303.4
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+-303.4
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+-333.7
+  20
+229.4
+  0
+VERTEX
+  8
+NA
+  10
+2.4
+  20
+229.4
+  0
+VERTEX
+  8
+NA
+  10
+2.4
+  20
+273.5
+  0
+VERTEX
+  8
+NA
+  10
+-333.7
+  20
+273.5
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+330.1
+  20
+-520.5
+  0
+VERTEX
+  8
+NA
+  10
+666.3
+  20
+-520.5
+  0
+VERTEX
+  8
+NA
+  10
+666.3
+  20
+-476.5
+  0
+VERTEX
+  8
+NA
+  10
+330.1
+  20
+-476.5
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+-10
+  0
+VERTEX
+  8
+NA
+  10
+29
+  20
+-10
+  0
+VERTEX
+  8
+NA
+  10
+29
+  20
+23.2
+  0
+VERTEX
+  8
+NA
+  10
+15.9
+  20
+23.2
+  0
+VERTEX
+  8
+NA
+  10
+15.9
+  20
+56.4
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+56.4
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+-237
+  0
+VERTEX
+  8
+NA
+  10
+303.5
+  20
+-237
+  0
+VERTEX
+  8
+NA
+  10
+303.5
+  20
+-270.2
+  0
+VERTEX
+  8
+NA
+  10
+316.6
+  20
+-270.2
+  0
+VERTEX
+  8
+NA
+  10
+316.6
+  20
+-303.4
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+-303.4
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+-303.4
+  0
+VERTEX
+  8
+NA
+  10
+15.9
+  20
+-303.4
+  0
+VERTEX
+  8
+NA
+  10
+15.9
+  20
+-270.2
+  0
+VERTEX
+  8
+NA
+  10
+29
+  20
+-270.2
+  0
+VERTEX
+  8
+NA
+  10
+29
+  20
+-237
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+-237
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+56.4
+  0
+VERTEX
+  8
+NA
+  10
+316.6
+  20
+56.4
+  0
+VERTEX
+  8
+NA
+  10
+316.6
+  20
+23.2
+  0
+VERTEX
+  8
+NA
+  10
+303.5
+  20
+23.2
+  0
+VERTEX
+  8
+NA
+  10
+303.5
+  20
+-10
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+-10
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+666.3
+  20
+273.5
+  0
+VERTEX
+  8
+NA
+  10
+330.1
+  20
+273.5
+  0
+VERTEX
+  8
+NA
+  10
+330.1
+  20
+229.4
+  0
+VERTEX
+  8
+NA
+  10
+666.3
+  20
+229.4
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+2.4
+  20
+273.5
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+215.9
+  0
+VERTEX
+  8
+NA
+  10
+15.9
+  20
+215.9
+  0
+VERTEX
+  8
+NA
+  10
+15.9
+  20
+229.4
+  0
+VERTEX
+  8
+NA
+  10
+2.4
+  20
+229.4
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+215.9
+  0
+VERTEX
+  8
+NA
+  10
+330.1
+  20
+273.5
+  0
+VERTEX
+  8
+NA
+  10
+330.1
+  20
+229.4
+  0
+VERTEX
+  8
+NA
+  10
+316.6
+  20
+229.4
+  0
+VERTEX
+  8
+NA
+  10
+316.6
+  20
+215.9
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+330.1
+  20
+-520.5
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+-462.9
+  0
+VERTEX
+  8
+NA
+  10
+316.6
+  20
+-462.9
+  0
+VERTEX
+  8
+NA
+  10
+316.6
+  20
+-476.5
+  0
+VERTEX
+  8
+NA
+  10
+330.1
+  20
+-476.5
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+15.9
+  20
+215.9
+  0
+VERTEX
+  8
+NA
+  10
+15.9
+  20
+56.4
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+56.4
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+215.9
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+215.9
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+56.4
+  0
+VERTEX
+  8
+NA
+  10
+316.6
+  20
+56.4
+  0
+VERTEX
+  8
+NA
+  10
+316.6
+  20
+215.9
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+-462.9
+  0
+VERTEX
+  8
+NA
+  10
+2.4
+  20
+-520.5
+  0
+VERTEX
+  8
+NA
+  10
+2.4
+  20
+-476.5
+  0
+VERTEX
+  8
+NA
+  10
+15.9
+  20
+-476.5
+  0
+VERTEX
+  8
+NA
+  10
+15.9
+  20
+-462.9
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+-333.7
+  20
+-520.5
+  0
+VERTEX
+  8
+NA
+  10
+2.4
+  20
+-520.5
+  0
+VERTEX
+  8
+NA
+  10
+2.4
+  20
+-476.5
+  0
+VERTEX
+  8
+NA
+  10
+-333.7
+  20
+-476.5
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+15.9
+  20
+-303.4
+  0
+VERTEX
+  8
+NA
+  10
+15.9
+  20
+-462.9
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+-462.9
+  0
+VERTEX
+  8
+NA
+  10
+60
+  20
+-303.4
+  0
+SEQEND
+  0
+POLYLINE
+  8
+NA
+  70
+1
+  66
+1
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+-303.4
+  0
+VERTEX
+  8
+NA
+  10
+272.5
+  20
+-462.9
+  0
+VERTEX
+  8
+NA
+  10
+316.6
+  20
+-462.9
+  0
+VERTEX
+  8
+NA
+  10
+316.6
+  20
+-303.4
+  0
+SEQEND
+  0
+ENDBLK
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+INSERT
+  8
+Default
+  2
+lab_p2_11
+  10
+0
+  20
+0
+  50
+0
+  41
+1
+  42
+1
+  0
+ENDSEC
+  0
+EOF
